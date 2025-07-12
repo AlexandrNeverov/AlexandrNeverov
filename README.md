@@ -4,17 +4,13 @@
 
 <table>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="120" alt="Neveroff Logo"/>
-    </td>
-  </tr>
-  <tr>
     <td width="400">
       <a href="https://www.youtube.com/watch?v=_W2HxS0K1PE" target="_blank">
         <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/image.png" width="380" alt="Terraform AWS DevOps Kit video thumbnail"/>
       </a>
     </td>
-    <td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="100" alt="Neveroff Logo"/><br/>
       <strong>A fully automated infrastructure provisioning kit using <code>Terraform</code> and <code>AWS</code>:</strong><br/>
       • ⚙️ Launch EC2 instance with IAM and SSH access<br/>
       • 🧰 Install core DevOps tools (Git, CLI, Python, htop, etc.)<br/>
