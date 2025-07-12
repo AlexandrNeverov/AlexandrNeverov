@@ -4,6 +4,11 @@
 
 <table>
   <tr>
+    <td colspan="2" align="center">
+      <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="120" alt="Neveroff Logo"/>
+    </td>
+  </tr>
+  <tr>
     <td width="400">
       <a href="https://www.youtube.com/watch?v=_W2HxS0K1PE" target="_blank">
         <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/image.png" width="380" alt="Terraform AWS DevOps Kit video thumbnail"/>
@@ -18,7 +23,3 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="250" alt="Neveroff Logo"/>
-</p>
