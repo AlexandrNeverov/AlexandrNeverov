@@ -1,19 +1,4 @@
-## 🚀 Featured Project
-
-<table>
-  <tr>
-    <td valign="middle" width="50">
-      <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="48" alt="Neveroff Logo"/>
-    </td>
-    <td valign="middle">
-      <h3>
-        <a href="https://github.com/AlexandrNeverov/zero-node-devops-kit">
-          🔧 Terraform AWS DevOps Kit
-        </a>
-      </h3>
-    </td>
-  </tr>
-</table>
+### [🔧 Terraform AWS DevOps Kit](https://github.com/AlexandrNeverov/zero-node-devops-kit)
 
 [![Terraform AWS](https://img.shields.io/badge/Terraform-AWS-blueviolet?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/AlexandrNeverov/zero-node-devops-kit)
 
@@ -33,3 +18,7 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="250" alt="Neveroff Logo"/>
+</p>
