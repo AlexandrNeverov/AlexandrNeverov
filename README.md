@@ -1,16 +1,35 @@
-## Hi there 👋
+## 🚀 Featured Project
 
-<!--
-**AlexandrNeverov/AlexandrNeverov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td valign="middle" width="50">
+      <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="48" alt="Neveroff Logo"/>
+    </td>
+    <td valign="middle">
+      <h3>
+        <a href="https://github.com/AlexandrNeverov/zero-node-devops-kit">
+          🔧 Terraform AWS DevOps Kit
+        </a>
+      </h3>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+[![Terraform AWS](https://img.shields.io/badge/Terraform-AWS-blueviolet?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/AlexandrNeverov/zero-node-devops-kit)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td width="400">
+      <a href="https://www.youtube.com/watch?v=_W2HxS0K1PE" target="_blank">
+        <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/image.png" width="380" alt="Terraform AWS DevOps Kit video thumbnail"/>
+      </a>
+    </td>
+    <td>
+      <strong>A fully automated infrastructure provisioning kit using <code>Terraform</code> and <code>AWS</code>:</strong><br/>
+      • ⚙️ Launch EC2 instance with IAM and SSH access<br/>
+      • 🧰 Install core DevOps tools (Git, CLI, Python, htop, etc.)<br/>
+      • ☁️ Configure remote backend with <strong>S3</strong> + <strong>DynamoDB</strong> for state management<br/>
+      • 🎬 <a href="https://www.youtube.com/watch?v=_W2HxS0K1PE" target="_blank">Watch the demo video</a>
+    </td>
+  </tr>
+</table>
