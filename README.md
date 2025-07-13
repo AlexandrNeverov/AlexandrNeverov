@@ -1,3 +1,26 @@
+### [🛡️ Admin Terraform Bootstrap EC2](https://github.com/AlexandrNeverov/admin-terraform-bootstrap-ec2)
+
+[![Admin Terraform](https://img.shields.io/badge/Terraform-Admin--EC2-critical?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/AlexandrNeverov/admin-terraform-bootstrap-ec2)
+
+<table>
+  <tr>
+    <td width="400">
+      <a href="https://www.youtube.com/watch?v=XXXXXXXXXXX" target="_blank">
+        <img src="https://raw.githubusercontent.com/AlexandrNeverov/admin-terraform-bootstrap-ec2/main/image.png" width="380" alt="Admin Terraform Bootstrap EC2 video thumbnail"/>
+      </a>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="100" alt="Neveroff Logo"/><br/>
+      <strong>Secure admin-level Terraform environment from scratch via <code>EC2 + IAM Profile</code>:</strong><br/>
+      • 🛡️ EC2 instance with full <code>AdministratorAccess</code> via IAM Role<br/>
+      • 🧰 CLI toolchain preinstalled (Terraform, AWS CLI, Git, etc.)<br/>
+      • ☁️ Terraform remote backend with <strong>S3</strong> + <strong>DynamoDB</strong><br/>
+      • 🔍 IAM policy check script for runtime verification<br/>
+      • 🎬 <a href="https://www.youtube.com/watch?v=XXXXXXXXXXX" target="_blank">Watch the demo video</a>
+    </td>
+  </tr>
+</table>
+
 ### [🔧 Terraform AWS DevOps Kit](https://github.com/AlexandrNeverov/zero-node-devops-kit)
 
 [![Terraform AWS](https://img.shields.io/badge/Terraform-AWS-blueviolet?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/AlexandrNeverov/zero-node-devops-kit)
