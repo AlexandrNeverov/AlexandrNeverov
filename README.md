@@ -1,3 +1,55 @@
+### [🐳 Ansible-Docker-Swarm kit)](https://github.com/AlexandrNeverov/ansible_docker_setup)
+
+[![Ansible](https://img.shields.io/badge/Ansible-Docker--Swarm--Provisioning-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/AlexandrNeverov/ansible_docker_setup)
+[![Docker](https://img.shields.io/badge/Docker-Container--Platform-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-Tested--on--Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![CI Ready](https://img.shields.io/badge/CI--Ready-Automated--Setup-brightgreen?style=for-the-badge)]()
+
+<table>
+  <tr>
+    <td width="500">
+      <a href="https://www.youtube.com/watch?v=XXXXXXXXXXX" target="_blank">
+        <img src="https://raw.githubusercontent.com/AlexandrNeverov/terraform_docker_setup/main/image.png" width="500" alt="Terraform Admin Bootstrap video thumbnail"/>
+      </a>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="100" alt="Neveroff Logo"/><br/>
+      <strong>Automated admin-ready cloud Docker node with Ansible</strong><br/>
+  •Installing Docker CE, Compose v2, Swarm mode, and Portainer usually involves a long sequence of shell commands, package installations, and security configurations. Mistakes are easy, automation is tricky, and reusability is low.
+
+**`ansible-docker-swarm-kit`** eliminates this pain by fully automating the process with Ansible:
+
+- 🧩 Installs Docker CE and containerd from Docker’s official APT repo  
+- 🧰 Adds Docker Compose v2 as a binary  
+- 🌀 Bootstraps Docker Swarm (if not yet active)  
+- 🚀 Deploys Portainer CE as a Docker container  
+- 🧭 Inventory-based provisioning with SSH private key auth  
+
+This is ideal for:
+
+- 🧪 Testing Docker in clean environments  
+- 🛠️ DevOps labs, demos, and bootstrap nodes  
+- 💡 Repeatable setup for Swarm-based projects or local learning  
+- 🐧 Ubuntu EC2 hosts, Raspberry Pi servers, or any SSH-accessible node
+
+---
+
+### ✅ Features
+
+• 📦 Installs Docker CE, containerd.io, and CLI dependencies
+• 🧱 Installs Docker Compose v2 as a standalone binary
+• 🔐 Adds GPG key and sets up official Docker APT repo
+• 🌀 Auto-initializes Docker Swarm if not active
+• 🧰 Creates named Docker volume for Portainer
+• 🚀 Launches Portainer CE as a container on port 9000
+• 🧩 Inventory-driven structure for reproducible deployment
+• 🧭 Role-based modular design with separation of concerns
+
+
+   </td>
+  </tr>
+</table>
+
 ### [🚀Docker-node Zero Bootstrap (with Terraform )](https://github.com/AlexandrNeverov/terraform_docker_setup)
 
 [![Terraform](https://img.shields.io/badge/Terraform-Infrastructure--as--Code-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/AlexandrNeverov/terraform_docker_setup)
