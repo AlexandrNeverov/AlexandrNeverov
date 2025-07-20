@@ -5,8 +5,9 @@
 
 <table>
   <tr>
-    <td width="400"
-        <img src="https://raw.githubusercontent.com/AlexandrNeverov/Terraform-Admin-Bootstrap-on-EC2-via-IAM-Instance-Profile/main/image.png" width="380">
+    <td width="400">
+      <a href="https://www.youtube.com/watch?v=XXXXXXXXXXX" target="_blank">
+        <img src="https://raw.githubusercontent.com/AlexandrNeverov/ansible-zero-node/main/image.png" width="380" alt="Terraform Admin Bootstrap video thumbnail"/>
       </a>
     </td>
     <td valign="top">
