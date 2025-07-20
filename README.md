@@ -36,12 +36,12 @@
   <tr>
     <td width="400">
       <a href="https://www.youtube.com/watch?v=XXXXXXXXXXX" target="_blank">
-        <img src="https://raw.githubusercontent.com/AlexandrNeverov/vault-iac-bootstrap/main/image.png" width="380" alt="Terraform Admin Bootstrap video thumbnail"/>
+        <img src="https://raw.githubusercontent.com/AlexandrNeverov/Terraform-Admin-Bootstrap-on-EC2-via-IAM-Instance-Profile/main/image.png" width="380" alt="Terraform Admin Bootstrap video thumbnail"/>
       </a>
     </td>
     <td valign="top">
       <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="100" alt="Neveroff Logo"/><br/>
-  
+      <strong>Automated admin-ready cloud node using <code>Terraform</code>, <code>EC2</code> and IAM instance profile:</strong><br/>
       • 🚀 Provision EC2 instance with full admin rights via IAM Instance Profile<br/>
       • 🧰 Preinstalled tools: Terraform, Vault, AWS CLI, Git, Python, jq, htop<br/>
       • ☁️ Remote backend ready: S3 (versioned) + DynamoDB (state locking htop<br/>
