@@ -1,6 +1,6 @@
 ### [☁️ Cloud Bootstrap Automation with Terraform & Vault](https://github.com/AlexandrNeverov/vault-iac-bootstrap)
 
-[![Terraform Admin](https://img.shields.io/badge/Terraform-Admin--EC2--IAM-critical?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/AlexandrNeverov/vault-iac-bootstrap) [![Vault Secrets](https://img.shields.io/badge/Vault-Secrets--Management--HCP-critical?style=for-the-badge&logo=vault&logoColor=white)](https://github.com/AlexandrNeverov/vault-iac-bootstrap)
+[![Terraform Admin](https://img.shields.io/badge/Terraform-Admin--EC2--IAM-critical?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/AlexandrNeverov/vault-iac-bootstrap) [![Vault Secrets](https://img.shields.io/badge/Vault-Secrets--Management--HCP-6f42c1?style=for-the-badge&logo=vault&logoColor=white)](https://github.com/AlexandrNeverov/vault-iac-bootstrap)
 
 <table>
   <tr>
