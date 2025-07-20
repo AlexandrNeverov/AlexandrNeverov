@@ -17,7 +17,6 @@
       • 🧰 Tools installed: Terraform, AWS CLI, Git, Python, jq, htop<br/>
       • ☁️ Remote backend: <strong>S3</strong> (versioning) + <strong>DynamoDB</strong> (locking)<br/>
       • 🔐 Verifies IAM permissions and protects credentials<br/>
-      • 🎬 <a href="https://www.youtube.com/watch?v=XXXXXXXXXXX" target="_blank">Watch the demo video</a>
     </td>
   </tr>
 </table>
