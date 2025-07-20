@@ -1,3 +1,32 @@
+### [🚀Docker-node Zero Bootstrap (with Terraform )](https://github.com/AlexandrNeverov/terraform_docker_setup)
+
+[![Ansible Node](https://img.shields.io/badge/Ansible-Automation--EC2--IAM-blue?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/AlexandrNeverov/ansible-zero-node)
+[![Vault Secrets](https://img.shields.io/badge/Vault-Secrets--Management--Optional-6f42c1?style=for-the-badge&logo=vault&logoColor=white)](https://github.com/AlexandrNeverov/ansible-zero-node)
+
+<table>
+  <tr>
+    <td width="500">
+      <a href="https://www.youtube.com/watch?v=XXXXXXXXXXX" target="_blank">
+        <img src="https://raw.githubusercontent.com/AlexandrNeverov/terraform_docker_setup/main/image.png" width="500" alt="Terraform Admin Bootstrap video thumbnail"/>
+      </a>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="100" alt="Neveroff Logo"/><br/>
+      <strong>Automated admin-ready cloud node with Ansible</strong><br/>
+  • 🖥️ EC2 provisioning with custom AMI, subnet, and security group
+  • 🔐 IAM Instance Profile with secure metadata-based AWS API access
+  • 🐳 Automatic Docker installation via cloud-init user data
+  • 🪣 Remote backend: S3 (versioned) + DynamoDB (state locking)
+  • 📦 Modular Terraform code: separated providers, variables, outputs, and versions
+  • 🧩 Reusable for other container images or base configurations
+  • 🔧 Customizable via terraform.tfvars without touching core logic
+  • 🖼 Image reference: architecture diagram included (image.png)
+  • 📝 Versioned deployment structure for easy updates and tracking
+
+   </td>
+  </tr>
+</table>
+
 ### [🚀 Ansible Zero Bootstrap](https://github.com/AlexandrNeverov/ansible-zero-node)
 
 [![Ansible Node](https://img.shields.io/badge/Ansible-Automation--EC2--IAM-blue?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/AlexandrNeverov/ansible-zero-node)
