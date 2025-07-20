@@ -1,6 +1,6 @@
 ### [🚀 Ansible Zero Bootstrap](https://github.com/AlexandrNeverov/ansible-zero-node)
 
-[![Ansible Node](https://img.shields.io/badge/Ansible-Automation--EC2--IAM-blue?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/AlexandrNeverov/ansible-zero-node
+[![Ansible Node](https://img.shields.io/badge/Ansible-Automation--EC2--IAM-blue?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/AlexandrNeverov/ansible-zero-node)
 [![Vault Secrets](https://img.shields.io/badge/Vault-Secrets--Management--Optional-6f42c1?style=for-the-badge&logo=vault&logoColor=white)](https://github.com/AlexandrNeverov/ansible-zero-node)
 
 <table>
