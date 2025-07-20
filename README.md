@@ -1,3 +1,27 @@
+### [🚀 Ansible Zero Bootstrap](https://github.com/AlexandrNeverov/ansible-zero-node)
+
+[![Ansible Node](https://img.shields.io/badge/Ansible-Automation--EC2--IAM-blue?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/AlexandrNeverov/ansible-zero-node
+[![Vault Secrets](https://img.shields.io/badge/Vault-Secrets--Management--Optional-6f42c1?style=for-the-badge&logo=vault&logoColor=white)](https://github.com/AlexandrNeverov/ansible-zero-node)
+
+<table>
+  <tr>
+    <td width="400">
+      <a href="https://www.youtube.com/watch?v=XXXXXXXXXXX" target="_blank">
+        <img src="https://raw.githubusercontent.com/AlexandrNeverov/ansible-zero-node/main/image.png" width="380" alt="Terraform Admin Bootstrap video thumbnail"/>
+      </a>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="100" alt="Neveroff Logo"/><br/>
+      <strong>Automated admin-ready cloud node using <code>Terraform</code>, <code>EC2</code> and IAM instance profile:</strong><br/>
+      • 🚀 Provision EC2 instance with full admin rights via IAM Instance Profile<br/>
+      • 🧰 Preinstalled tools: Terraform, Vault, AWS CLI, Git, Python, jq, htop<br/>
+      • ☁️ Remote backend ready: S3 (versioned) + DynamoDB (state locking htop<br/>
+      • 🔐 Vault auto-installed, configured, and launched as systemd service <br/>
+      • ✅ No static credentials – IAM-managed secure access only  <br/>
+    </td>
+  </tr>
+</table>
+
 ### [☁️ Cloud Bootstrap Automation with Terraform & Vault](https://github.com/AlexandrNeverov/vault-iac-bootstrap)
 
 [![Terraform Admin](https://img.shields.io/badge/Terraform-Admin--EC2--IAM-critical?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/AlexandrNeverov/vault-iac-bootstrap) 
