@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td width="400">
+    <td width="800">
       <a href="https://www.youtube.com/watch?v=XXXXXXXXXXX" target="_blank">
         <img src="https://raw.githubusercontent.com/AlexandrNeverov/ansible-zero-node/main/image.png" width="800" alt="Terraform Admin Bootstrap video thumbnail"/>
       </a>
