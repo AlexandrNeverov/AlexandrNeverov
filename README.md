@@ -1,7 +1,7 @@
 ### [🚀Docker-node Zero Bootstrap (with Terraform )](https://github.com/AlexandrNeverov/terraform_docker_setup)
 
-[![Ansible Node](https://img.shields.io/badge/Ansible-Automation--EC2--IAM-blue?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/AlexandrNeverov/ansible-zero-node)
-[![Vault Secrets](https://img.shields.io/badge/Vault-Secrets--Management--Optional-6f42c1?style=for-the-badge&logo=vault&logoColor=white)](https://github.com/AlexandrNeverov/ansible-zero-node)
+[![Terraform](https://img.shields.io/badge/Terraform-Infrastructure--as--Code-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/AlexandrNeverov/terraform_docker_setup)
+[![Docker](https://img.shields.io/badge/Docker-Container--Setup-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/AlexandrNeverov/terraform_docker_setup)
 
 <table>
   <tr>
