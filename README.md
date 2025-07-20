@@ -41,7 +41,7 @@
     </td>
     <td valign="top">
       <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="100" alt="Neveroff Logo"/><br/>
-      <strong>Automated admin-ready cloud node using <code>Terraform</code>, <code>EC2</code> and IAM instance profile:</strong><br/>
+      <strong>Automated admin-ready cloud node with HCL Vault </strong><br/>
       • 🚀 Provision EC2 instance with full admin rights via IAM Instance Profile<br/>
       • 🧰 Preinstalled tools: Terraform, Vault, AWS CLI, Git, Python, jq, htop<br/>
       • ☁️ Remote backend ready: S3 (versioned) + DynamoDB (state locking htop<br/>
