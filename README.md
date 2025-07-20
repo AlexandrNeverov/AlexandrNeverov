@@ -11,7 +11,7 @@
       </a>
     </td>
     <td valign="top">
-      <img src="https://raw.githubusercontent.com/AlexandrNeverov/ansible-zero-node/main/neveroff.png" width="100" alt="Neveroff Logo"/><br/>
+      <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="100" alt="Neveroff Logo"/><br/>
       <strong>Automated admin-ready cloud node using <code>Terraform</code>, <code>EC2</code> and IAM instance profile:</strong><br/>
     🔧 Automated EC2 bootstrap with Ansible, CLI tools, and IAM-based auth<br/>
     • 🚀 Provision EC2 instance with admin IAM role and metadata-based authentication<br/>
