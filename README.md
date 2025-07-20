@@ -23,6 +23,7 @@
     • 🔐 Optional Vault install with systemd launch and minimal config<br/>
     • 🧩 Modular design: use scripts standalone or as full pipeline<br/>
 
+   </td>
   </tr>
 </table>
 
@@ -46,7 +47,7 @@
       • ☁️ Remote backend ready: S3 (versioned) + DynamoDB (state locking htop<br/>
       • 🔐 Vault auto-installed, configured, and launched as systemd service <br/>
       • ✅ No static credentials – IAM-managed secure access only  <br/>
-    </td>
+   </td>
   </tr>
 </table>
 
