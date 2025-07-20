@@ -9,7 +9,7 @@
   <tr>
     <td width="500">
       <a href="https://www.youtube.com/watch?v=XXXXXXXXXXX" target="_blank">
-        <img src="https://raw.githubusercontent.com/AlexandrNeverov/terraform_docker_setup/main/image.png" width="500" alt="Terraform Admin Bootstrap video thumbnail"/>
+        <img src="https://raw.githubusercontent.com/AlexandrNeverov/ansible_docker_setup/main/image.png" width="500" alt="Terraform Admin Bootstrap video thumbnail"/>
       </a>
     </td>
     <td valign="top">
