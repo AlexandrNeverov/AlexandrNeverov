@@ -25,26 +25,7 @@
 - 🚀 Deploys Portainer CE as a Docker container  
 - 🧭 Inventory-based provisioning with SSH private key auth  
 
-This is ideal for:
-
-- 🧪 Testing Docker in clean environments  
-- 🛠️ DevOps labs, demos, and bootstrap nodes  
-- 💡 Repeatable setup for Swarm-based projects or local learning  
-- 🐧 Ubuntu EC2 hosts, Raspberry Pi servers, or any SSH-accessible node
-
----
-
-### ✅ Features
-
-• 📦 Installs Docker CE, containerd.io, and CLI dependencies
-• 🧱 Installs Docker Compose v2 as a standalone binary
-• 🔐 Adds GPG key and sets up official Docker APT repo
-• 🌀 Auto-initializes Docker Swarm if not active
-• 🧰 Creates named Docker volume for Portainer
-• 🚀 Launches Portainer CE as a container on port 9000
-• 🧩 Inventory-driven structure for reproducible deployment
-• 🧭 Role-based modular design with separation of concerns
-
+This is ideal for: 🧪 Testing Docker in clean environments  🛠️ DevOps labs, demos, and bootstrap nodes  💡 Repeatable setup for Swarm-based projects or local learning 🐧 Ubuntu EC2 hosts, Raspberry Pi servers, or any SSH-accessible node
 
    </td>
   </tr>
