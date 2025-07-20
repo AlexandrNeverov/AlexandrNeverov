@@ -13,11 +13,11 @@
     <td valign="top">
       <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="100" alt="Neveroff Logo"/><br/>
       <strong>Automated admin-ready cloud node using <code>Terraform</code>, <code>EC2</code> and IAM instance profile:</strong><br/>
-      • 🛡️ Launch EC2 with <strong>AdministratorAccess</strong> IAM Role (Instance Profile)<br/>
-      • ⚙️ Use Terraform to manage infrastructure securely<br/>
-      • 🧰 Tools installed: Terraform, AWS CLI, Git, Python, jq, htop<br/>
-      • ☁️ Remote backend: <strong>S3</strong> (versioning) + <strong>DynamoDB</strong> (locking)<br/>
-      • 🔐 Verifies IAM permissions and protects credentials<br/>
+      • 🚀 Provision EC2 instance with full admin rights via IAM Instance Profile<br/>
+      • 🧰 Preinstalled tools: Terraform, Vault, AWS CLI, Git, Python, jq, htop<br/>
+      • ☁️ Remote backend ready: S3 (versioned) + DynamoDB (state locking htop<br/>
+      • 🔐 Vault auto-installed, configured, and launched as systemd service <br/>
+      • ✅ No static credentials – IAM-managed secure access only  <br/>
     </td>
   </tr>
 </table>
