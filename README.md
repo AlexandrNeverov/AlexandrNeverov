@@ -34,9 +34,9 @@
 
 <table>
   <tr>
-    <td width="400">
+    <td width="500">
       <a href="https://www.youtube.com/watch?v=XXXXXXXXXXX" target="_blank">
-        <img src="https://raw.githubusercontent.com/AlexandrNeverov/vault-iac-bootstrap/main/image.png" width="380" alt="Terraform Admin Bootstrap video thumbnail"/>
+        <img src="https://raw.githubusercontent.com/AlexandrNeverov/vault-iac-bootstrap/main/image.png" width="500" alt="Terraform Admin Bootstrap video thumbnail"/>
       </a>
     </td>
     <td valign="top">
@@ -57,9 +57,9 @@
 
 <table>
   <tr>
-    <td width="400">
+    <td width="500">
       <a href="https://www.youtube.com/watch?v=XXXXXXXXXXX" target="_blank">
-        <img src="https://raw.githubusercontent.com/AlexandrNeverov/Terraform-Admin-Bootstrap-on-EC2-via-IAM-Instance-Profile/main/image.png" width="380" alt="Terraform Admin Bootstrap video thumbnail"/>
+        <img src="https://raw.githubusercontent.com/AlexandrNeverov/Terraform-Admin-Bootstrap-on-EC2-via-IAM-Instance-Profile/main/image.png" width="500" alt="Terraform Admin Bootstrap video thumbnail"/>
       </a>
     </td>
     <td valign="top">
@@ -81,9 +81,9 @@
 
 <table>
   <tr>
-    <td width="400">
+    <td width="500">
       <a href="https://www.youtube.com/watch?v=_W2HxS0K1PE" target="_blank">
-        <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/image.png" width="380" alt="Terraform AWS DevOps Kit video thumbnail"/>
+        <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/image.png" width="500" alt="Terraform AWS DevOps Kit video thumbnail"/>
       </a>
     </td>
     <td valign="top">
