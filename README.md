@@ -1,4 +1,4 @@
-### [🐳 Ansible-Docker-Swarm kit)](https://github.com/AlexandrNeverov/ansible_docker_setup)
+### [🐳 Ansible-Docker-Swarm kit)](https://github.com/AlexandrNeverov/ansible_docker_setup
 
 [![Ansible](https://img.shields.io/badge/Ansible-Docker--Swarm--Provisioning-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/AlexandrNeverov/ansible_docker_setup)
 [![Docker](https://img.shields.io/badge/Docker-Container--Platform-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
