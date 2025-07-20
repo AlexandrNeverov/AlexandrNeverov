@@ -7,12 +7,12 @@
   <tr>
     <td width="400">
       <a href="https://www.youtube.com/watch?v=XXXXXXXXXXX" target="_blank">
-        <img src="https://raw.githubusercontent.com/AlexandrNeverov/ansible-zero-node/main/image.png" width="380" alt="Terraform Admin Bootstrap video thumbnail"/>
+        <img src="https://raw.githubusercontent.com/AlexandrNeverov/Terraform-Admin-Bootstrap-on-EC2-via-IAM-Instance-Profile/main/image.png" width="380" alt="Terraform Admin Bootstrap video thumbnail"/>
       </a>
     </td>
     <td valign="top">
-      <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="100" alt="Neveroff Logo"/><br/>
- 
+      <img src="https://raw.githubusercontent.com/AlexandrNeverov/ansible-zero-node/main/neveroff.png" width="100" alt="Neveroff Logo"/><br/>
+      <strong>Automated admin-ready cloud node using <code>Terraform</code>, <code>EC2</code> and IAM instance profile:</strong><br/>
     🔧 Automated EC2 bootstrap with Ansible, CLI tools, and IAM-based auth<br/>
     • 🚀 Provision EC2 instance with admin IAM role and metadata-based authentication<br/>
     • ⚙️ Ansible auto-installed via official Ubuntu PPA, ready to run<br/>
@@ -36,7 +36,7 @@
   <tr>
     <td width="400">
       <a href="https://www.youtube.com/watch?v=XXXXXXXXXXX" target="_blank">
-        <img src="https://raw.githubusercontent.com/AlexandrNeverov/Terraform-Admin-Bootstrap-on-EC2-via-IAM-Instance-Profile/main/image.png" width="380" alt="Terraform Admin Bootstrap video thumbnail"/>
+        <img src="https://raw.githubusercontent.com/AlexandrNeverov/vault-iac-bootstrap)/main/image.png" width="380" alt="Terraform Admin Bootstrap video thumbnail"/>
       </a>
     </td>
     <td valign="top">
