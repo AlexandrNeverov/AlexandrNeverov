@@ -12,12 +12,17 @@
     </td>
     <td valign="top">
       <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="100" alt="Neveroff Logo"/><br/>
-      <strong>Automated admin-ready cloud node using <code>Terraform</code>, <code>EC2</code> and IAM instance profile:</strong><br/>
-      • 🚀 Provision EC2 instance with full admin rights via IAM Instance Profile<br/>
-      • 🧰 Preinstalled tools: Terraform, Vault, AWS CLI, Git, Python, jq, htop<br/>
-      • ☁️ Remote backend ready: S3 (versioned) + DynamoDB (state locking htop<br/>
-      • 🔐 Vault auto-installed, configured, and launched as systemd service <br/>
-      • ✅ No static credentials – IAM-managed secure access only  <br/>
+ 
+🔧 Automated EC2 bootstrap with Ansible, CLI tools, and IAM-based auth:
+• 🚀 Provision EC2 instance with admin IAM role and metadata-based authentication
+• ⚙️ Ansible auto-installed via official Ubuntu PPA, ready to run
+• 🧰 Preinstalled CLI tools: AWS CLI v2, Git, jq, curl, unzip, htop, tmux, Python3, pip3
+• 🌐 Timezone auto-set to America/New_York with timedatectl
+• 📂 Project folders: ~/projects/ansible, ~/projects/terraform, and IP log
+• 🔑 SSH keypair generated and saved to ~/projects/ssh.pub
+• 🔐 Optional Vault install with systemd launch and minimal config
+• 🧩 Modular design: use scripts standalone or as full pipeline
+
     </td>
   </tr>
 </table>
@@ -36,7 +41,7 @@
     </td>
     <td valign="top">
       <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="100" alt="Neveroff Logo"/><br/>
-      <strong>Automated admin-ready cloud node using <code>Terraform</code>, <code>EC2</code> and IAM instance profile:</strong><br/>
+  
       • 🚀 Provision EC2 instance with full admin rights via IAM Instance Profile<br/>
       • 🧰 Preinstalled tools: Terraform, Vault, AWS CLI, Git, Python, jq, htop<br/>
       • ☁️ Remote backend ready: S3 (versioned) + DynamoDB (state locking htop<br/>
