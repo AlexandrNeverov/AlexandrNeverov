@@ -1,3 +1,40 @@
+### [# 🧰 DevOps Showcase: Automated Docker Infrastructure with Terraform & Ansible on AWS EC2](https://github.com/AlexandrNeverov/DevOps-Showcase-Automated-Docker-Infrastructure-with-Terraform-and-Ansible-AWS-EC2-)
+
+[![Terraform](https://img.shields.io/badge/Terraform-Infrastructure--as--Code-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/AlexandrNeverov/terraform_docker_setup)
+[![Ansible](https://img.shields.io/badge/Ansible-Provisioning--Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/AlexandrNeverov/ansible_docker_setup)
+[![Docker](https://img.shields.io/badge/Docker-Container--Stack-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Vault](https://img.shields.io/badge/Vault-Secure--Secrets-000000?style=for-the-badge&logo=vault&logoColor=white)](https://www.vaultproject.io/)
+
+<table>
+  <tr>
+    <td width="500">
+      <a href="https://www.youtube.com/watch?v=XXXXXXXXXXX" target="_blank">
+        <img src="https://raw.githubusercontent.com/AlexandrNeverov/DevOps-Showcase-Automated-Docker-Infrastructure-with-Terraform-and-Ansible-AWS-EC2-/main/image.png" width="500" alt="Terraform Admin Bootstrap video thumbnail"/>
+      </a>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="100" alt="Neveroff Logo"/><br/>
+      <strong>>Full-stack automation of cloud infrastructure for DevOps labs, demos, and real-world testing — powered by Terraform + Ansible + Docker + Vault on AWS EC2.</strong><br/>
+  •Installing Docker CE, Compose v2, Swarm mode, and Portainer usually involves a long sequence of shell commands, package installations, and security configurations. Mistakes are easy, automation is tricky, and reusability is low.
+
+**`ansible-docker-swarm-kit`** eliminates this pain by fully automating:
+
+• 🚀 End-to-end DevOps stack provisioning from zero
+• 📦 Terraform project auto-cloned and applied with backend setup
+• 🌐 Public IP fetched dynamically from terraform outputs
+• 🔐 Vault installation with HCL config and secure service startup
+• 🐳 Docker CE + Compose + Swarm + Portainer provisioned via Ansible
+• 🧩 Inventory auto-generated from Terraform output
+• 🔑 SSH key setup and reuse across layers
+• 📂 Project structure: ~/projects/{terraform, ansible}
+• 🧵 Modular shell scripts per layer: tools, terraform, ansible, vault  
+
+This is ideal for: 🧪 Testing Docker in clean environments  🛠️ DevOps labs, demos, and bootstrap nodes  💡 Repeatable setup for Swarm-based projects or local learning 🐧 Ubuntu EC2 hosts, Raspberry Pi servers, or any SSH-accessible node
+
+   </td>
+  </tr>
+</table>
+
 ### [🐳 Ansible-Docker-Swarm kit](https://github.com/AlexandrNeverov/ansible_docker_setup)
 
 [![Ansible](https://img.shields.io/badge/Ansible-Docker--Swarm--Provisioning-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/AlexandrNeverov/ansible_docker_setup)
