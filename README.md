@@ -12,13 +12,11 @@
     </td>
     <td valign="top">
       <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="100" alt="Neveroff Logo"/><br/>
-      <strong>Automated admin-ready cloud node using <code>Terraform</code>, <code>EC2</code> and IAM instance profile:</strong><br/>
+      <strong>Automated admin-ready cloud node with Ansible</strong><br/>
     🔧 Automated EC2 bootstrap with Ansible, CLI tools, and IAM-based auth<br/>
     • 🚀 Provision EC2 instance with admin IAM role and metadata-based authentication<br/>
     • ⚙️ Ansible auto-installed via official Ubuntu PPA, ready to run<br/>
     • 🧰 Preinstalled CLI tools: AWS CLI v2, Git, jq, curl, unzip, htop, tmux, Python3, pip3<br/>
-    • 🌐 Timezone auto-set to America/New_York with timedatectl<br/>
-    • 📂 Project folders: ~/projects/ansible, ~/projects/terraform, and IP log<br/>
     • 🔑 SSH keypair generated and saved to ~/projects/ssh.pub<br/>
     • 🔐 Optional Vault install with systemd launch and minimal config<br/>
     • 🧩 Modular design: use scripts standalone or as full pipeline<br/>
