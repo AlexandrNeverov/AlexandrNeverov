@@ -14,7 +14,7 @@
     </td>
     <td valign="top">
       <img src="https://raw.githubusercontent.com/AlexandrNeverov/zero-node-devops-kit/main/neveroff.png" width="100" alt="Neveroff Logo"/><br/>
-      <strong>>Full-stack automation of cloud infrastructure for DevOps labs, demos, and real-world testing — powered by Terraform + Ansible + Docker + Vault on AWS EC2.</strong><br/>
+      <strong> Full-stack automation of cloud infrastructure for DevOps labs, demos, and real-world testing — powered by Terraform + Ansible + Docker + Vault on AWS EC2.</strong><br/>
   •Installing Docker CE, Compose v2, Swarm mode, and Portainer usually involves a long sequence of shell commands, package installations, and security configurations. Mistakes are easy, automation is tricky, and reusability is low.
 
 **`ansible-docker-swarm-kit`** eliminates this pain by fully automating:
