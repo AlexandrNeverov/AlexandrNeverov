@@ -1,4 +1,4 @@
-### [# 🧰 DevOps Showcase: Automated Docker Infrastructure with Terraform & Ansible on AWS EC2](https://github.com/AlexandrNeverov/DevOps-Showcase-Automated-Docker-Infrastructure-with-Terraform-and-Ansible-AWS-EC2-)
+### [ 🧰 DevOps Showcase: Automated Docker Infrastructure with Terraform & Ansible on AWS EC2](https://github.com/AlexandrNeverov/DevOps-Showcase-Automated-Docker-Infrastructure-with-Terraform-and-Ansible-AWS-EC2-)
 
 [![Terraform](https://img.shields.io/badge/Terraform-Infrastructure--as--Code-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/AlexandrNeverov/terraform_docker_setup)
 [![Ansible](https://img.shields.io/badge/Ansible-Provisioning--Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/AlexandrNeverov/ansible_docker_setup)
